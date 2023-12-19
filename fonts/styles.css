@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'EBGaramond-Regular';
+  src: url(./EBGaramond-Regular.eot);
+  src: url(./EBGaramond-Regular.eot?#iefix) format('embedded-opentype'),
+       url(./EBGaramond-Regular.ttf) format('truetype'),
+       url(./EBGaramond-Regular.svg#EBGaramond-Regular) format('svg'),
+       url(./EBGaramond-Regular.otf) format('otf'),
+       url(./EBGaramond-Regular.woff) format('woff'),
+       url(./EBGaramond-Regular.woff2) format('woff2');
+}

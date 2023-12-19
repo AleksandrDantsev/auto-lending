@@ -1,2 +1,0 @@
-# auto-lending
-old project
